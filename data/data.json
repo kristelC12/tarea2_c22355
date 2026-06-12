@@ -1,0 +1,80 @@
+[
+  {
+    "nombre": "Copa Mundial Qatar 2022",
+    "anio": 2022,
+    "sede": "Qatar",
+    "campeon": "Argentina",
+    "subcampeon": "Francia",
+    "goleador": "Kylian Mbappe",
+    "equipos": 32,
+    "imagen": "qatar-2022.avif",
+    "slug": "qatar-2022",
+    "resumen": "Argentina campeon tras una final epica ante Francia.",
+    "descripcion": "Primer Mundial en Medio Oriente; Argentina gano en penales su tercer titulo."
+  },
+  {
+    "nombre": "Copa Mundial Rusia 2018",
+    "anio": 2018,
+    "sede": "Rusia",
+    "campeon": "Francia",
+    "subcampeon": "Croacia",
+    "goleador": "Harry Kane",
+    "equipos": 32,
+    "imagen": "rusia-2018.avif",
+    "slug": "rusia-2018",
+    "resumen": "Francia logro su segundo campeonato mundial.",
+    "descripcion": "Mundial realizado en Rusia con la participacion de 32 selecciones."
+  },
+  {
+    "nombre": "Copa Mundial Brasil 2014",
+    "anio": 2014,
+    "sede": "Brasil",
+    "campeon": "Alemania",
+    "subcampeon": "Argentina",
+    "goleador": "James Rodriguez",
+    "equipos": 32,
+    "imagen": "brasil-2014.avif",
+    "slug": "brasil-2014",
+    "resumen": "Alemania vencio a Argentina en la final.",
+    "descripcion": "Recordado por la historica victoria 7-1 sobre Brasil."
+  },
+  {
+    "nombre": "Copa Mundial Sudafrica 2010",
+    "anio": 2010,
+    "sede": "Sudafrica",
+    "campeon": "España",
+    "subcampeon": "Paises Bajos",
+    "goleador": "Thomas Muller",
+    "equipos": 32,
+    "imagen": "sudafrica-2010.avif",
+    "slug": "sudafrica-2010",
+    "resumen": "España obtuvo su primer titulo mundial.",
+    "descripcion": "Primer Mundial disputado en territorio africano."
+  },
+  {
+    "nombre": "Copa Mundial Alemania 2006",
+    "anio": 2006,
+    "sede": "Alemania",
+    "campeon": "Italia",
+    "subcampeon": "Francia",
+    "goleador": "Miroslav Klose",
+    "equipos": 32,
+    "imagen": "alemania-2006.avif",
+    "slug": "alemania-2006",
+    "resumen": "Italia se proclamo campeona en penales.",
+    "descripcion": "Final recordada por el incidente entre Zidane y Materazzi."
+  },
+  {
+    "nombre": "Copa Mundial Corea-Japon 2002",
+    "anio": 2002,
+    "sede": "Corea del Sur y Japon",
+    "campeon": "Brasil",
+    "subcampeon": "Alemania",
+    "goleador": "Ronaldo",
+    "equipos": 32,
+    "imagen": "corea-japon-2002.avif",
+    "slug": "corea-japon-2002",
+    "resumen": "Brasil consiguio su quinto titulo mundial.",
+    "descripcion": "Primer Mundial organizado conjuntamente por dos paises."
+  }
+]
